@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Album xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>3</ID>
+  <_artist>0</_artist>
+  <Title>Liebe ist fur alle da CD2</Title>
+  <Year>0</Year>
+  <Songs>
+    <Song>35</Song>
+    <Song>36</Song>
+    <Song>37</Song>
+    <Song>38</Song>
+    <Song>39</Song>
+  </Songs>
+</Album>

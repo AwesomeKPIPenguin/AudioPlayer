@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Album xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>7</ID>
+  <_artist>0</_artist>
+  <Title>Rosenrot - Limited Edition</Title>
+  <Year>0</Year>
+  <Songs>
+    <Song>75</Song>
+    <Song>76</Song>
+  </Songs>
+</Album>

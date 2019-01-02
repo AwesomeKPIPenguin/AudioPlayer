@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AudioPlayer.Album">
+    <Position X="10" Y="6.5" Width="2" />
+    <InheritanceLine Type="AudioPlayer.ImageContaining&lt;T&gt;" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.75" Y="6.011" />
+        <Point X="8.75" Y="6.26" />
+        <Point X="11.062" Y="6.26" />
+        <Point X="11.062" Y="6.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAEAEAAAEAAgAAIAgAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Album.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioPlayer.Artist">
+    <Position X="8" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAASAAAAAAAAAAAAASAAAAAA=</HashCode>
+      <FileName>Artist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioPlayer.ImageContaining&lt;T&gt;">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAIEAAAAAABAAACAAAAAAAAA=</HashCode>
+      <FileName>ImageContaining.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioPlayer.Storable&lt;T&gt;">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAgAAAAAAAAAAAAAEAAAAAAIAAAAAAAQA=</HashCode>
+      <FileName>Storable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioPlayer.Base">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAAAAAAAAAQAAAAAgAAACQAACAAAAAIA=</HashCode>
+      <FileName>Base.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioPlayer.Song">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEBAQCQEIEIBAAAAAAgIEAIAAAIAAAGAAAAAA=</HashCode>
+      <FileName>Song.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioPlayer.Playlist">
+    <Position X="6" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAEAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Playlist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

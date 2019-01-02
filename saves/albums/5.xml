@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Album xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>5</ID>
+  <_artist>1</_artist>
+  <Title>No Regrets</Title>
+  <Year>0</Year>
+  <Songs>
+    <Song>53</Song>
+    <Song>54</Song>
+    <Song>55</Song>
+    <Song>56</Song>
+    <Song>57</Song>
+    <Song>58</Song>
+    <Song>59</Song>
+    <Song>60</Song>
+    <Song>61</Song>
+    <Song>62</Song>
+    <Song>63</Song>
+    <Song>64</Song>
+    <Song>65</Song>
+    <Song>66</Song>
+    <Song>67</Song>
+    <Song>68</Song>
+    <Song>69</Song>
+    <Song>70</Song>
+    <Song>71</Song>
+    <Song>72</Song>
+  </Songs>
+</Album>

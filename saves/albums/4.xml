@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Album xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>4</ID>
+  <_artist>1</_artist>
+  <Title>Life</Title>
+  <Year>0</Year>
+  <Songs>
+    <Song>40</Song>
+    <Song>41</Song>
+    <Song>42</Song>
+    <Song>43</Song>
+    <Song>44</Song>
+    <Song>45</Song>
+    <Song>46</Song>
+    <Song>47</Song>
+    <Song>48</Song>
+    <Song>49</Song>
+    <Song>50</Song>
+    <Song>51</Song>
+    <Song>52</Song>
+  </Songs>
+</Album>

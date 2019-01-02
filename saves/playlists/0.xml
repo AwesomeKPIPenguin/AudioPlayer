@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Playlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Name>Test</Name>
+  <Songs>
+    <int>54</int>
+    <int>55</int>
+    <int>5</int>
+    <int>12</int>
+  </Songs>
+</Playlist>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Album xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <ImagePath>E:/DIMON/OneDrive/Projects/C#/3 - 1/AudioPlayer/images/covers/album-0.jpg</ImagePath>
+  <_artist>0</_artist>
+  <Title>Reise, Reise</Title>
+  <Year>0</Year>
+  <Songs>
+    <Song>2</Song>
+    <Song>3</Song>
+    <Song>4</Song>
+    <Song>5</Song>
+    <Song>6</Song>
+    <Song>7</Song>
+    <Song>8</Song>
+    <Song>9</Song>
+    <Song>10</Song>
+    <Song>11</Song>
+    <Song>12</Song>
+    <Song>0</Song>
+  </Songs>
+</Album>
