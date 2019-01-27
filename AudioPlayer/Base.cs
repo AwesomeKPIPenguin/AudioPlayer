@@ -31,8 +31,13 @@ namespace AudioPlayer {
 		
 		static					Base() {
 
-			ProjectPath = "E:/DIMON/OneDrive/Projects/C#/3 - 1/AudioPlayer/";
-		}
+			ProjectPath = "C:/Users/domelche/OneDrive/Projects/C#/3 - 1/AudioPlayer/";
+            Directory.CreateDirectory(ProjectPath + "saves/songs");
+            Directory.CreateDirectory(ProjectPath + "saves/albums");
+            Directory.CreateDirectory(ProjectPath + "saves/artists");
+            Directory.CreateDirectory(ProjectPath + "saves/playlists");
+            Directory.CreateDirectory(ProjectPath + "saves/counters");
+        }
 
 		public					Base() {
 

@@ -211,7 +211,8 @@ namespace AudioPlayer {
 			
 			fbd = new FolderBrowserDialog();
 
-			this.Enabled = false;
+            AddFoldersMessage.Visible = false;
+            this.Enabled = false;
 			if (fbd.ShowDialog() == DialogResult.OK) {
 				Song.ProcessSongsDirectory(fbd.SelectedPath);
 			}
@@ -494,5 +495,12 @@ namespace AudioPlayer {
 					row.ArtistLabel.Text = (Song.All[row.SongID].Artist != null) ? Song.All[row.SongID].Artist.Name : "Unknown";
 				}
 		}
-	}
+
+        private void PlayerForm_Load(object sender, EventArgs e)
+        {
+            AddFoldersMessage.Visible = false;
+            if (_source.Count == 0)
+                AddFoldersMessage.Visible = true;
+        }
+    }
 }

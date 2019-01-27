@@ -68,7 +68,9 @@ namespace AudioPlayer {
 			String[]		songs;
 			ProcessForm		pForm;
 
-			songs = Directory.GetFiles(path, "*.mp3", SearchOption.AllDirectories);
+            try {
+                songs = Directory.GetFiles(path, "*.mp3", SearchOption.AllDirectories);
+            } catch (Exception) { songs = new String[] { }; }
 
 			pForm = new ProcessForm();
 			pForm.Text = "Processing...";
